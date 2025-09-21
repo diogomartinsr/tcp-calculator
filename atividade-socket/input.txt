@@ -1,0 +1,16 @@
+# Formato obrigatório
+ADD 10 2
+SUB 7 9
+MUL -3 3.5
+DIV 5 0
+
+# Forma infixa (bônus)
+10 + 2
+7 - 9
+-3 * 3.5
+5 / 0
+
+# Entradas inválidas
+FOO 1 2
+10 ? 2
+ADD 1
